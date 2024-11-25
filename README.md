@@ -3,14 +3,16 @@
 is simple script to translate srt file etc  u can move or copy file to HOME or in the code as u like ...  
 # How to use : 
 
-1 . install Python 
-apt install python3 
-2 .  install Python Lib 
-pip install pyfiglet 
-pip install googletrans 
-pip install googletrans==4.0.0-rc1
+1. install Python
+```apt install python3```
 
-3 . Play the code normal with patch file 
+3.  install Python Lib 
+```pip install pyfiglet```
+```pip install googletrans ```
+```pip install googletrans==4.0.0-rc1```
+
+4. Play the code normal with patch file
+
 Enter the path of the SRT file to translate: path/to/your/file.srt
 
 Select the target language:
