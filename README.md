@@ -1,31 +1,35 @@
 # SUB-TRANSLATE
 # work in Liunx Tremux Python app 
-is simple script to translate srt file etc  u can move or copy file to HOME or in the code as u like ...  
+
+is simple script to translate srt file etc  u can move or copy file to HOME or in the code as u like ... 
+
 # How to use : 
 
 1. install Python
 ```apt install python3```
 
-3.  install Python Lib 
+3.  install Python Lib
+
 ```pip install pyfiglet```
 ```pip install googletrans ```
 ```pip install googletrans==4.0.0-rc1```
 
-4. Play the code normal with patch file
+
+5. Play the code normal with patch file
 
 Enter the path of the SRT file to translate: path/to/your/file.srt
 
 Select the target language:
-1: Arabic
-2: English
-3: French
-4: Spanish
-5: German
-6: Chinese
-7: Japanese
-8: Russian
-9: Italian
-10: Portuguese
+I: Arabic
+II: English
+III: French
+IIII: Spanish
+V: German
+VI: Chinese
+VII: Japanese
+VIII: Russian
+VIIII: Italian
+X: Portuguese
 
 Enter the number of your choice: 3
 Starting translation...
